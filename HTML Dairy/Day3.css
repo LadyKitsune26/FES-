@@ -1,0 +1,61 @@
+#header {
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#header2{
+    color: red;
+}
+
+#paragraph1 {
+    color:brown;
+    background-color: aqua;
+    border: 5px solid greenyellow;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#paragraph2 {
+    color: white;
+    background-color: blueviolet;
+    border: 4px solid orange;
+    font-size: large;
+}
+
+.box1 {
+    width: 300px;
+    height: 50px;
+    border: solid black;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+#paragraph3 {
+    background-color: aquamarine;
+    border: 4px solid purple;
+    font-size: 15px;
+    font-family: cursive;
+
+}
+
+#paragraph4 {
+    background-color: aliceblue;
+    border: 4px solid black;
+}
+
+.box2{ 
+    Width: 350px;
+    height: 250px;
+    border: solid pink;
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+}
+
+.box3 {
+    color: blue;
+    background-color: white;
+    border: solid black;
+    padding-left: 10px;
+    width: 400px;
+}
